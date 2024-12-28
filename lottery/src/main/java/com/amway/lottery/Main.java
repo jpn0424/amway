@@ -1,7 +1,7 @@
 package com.amway.lottery;
 
-import com.amway.model.type.PrizeDB;
-import com.amway.model.type.UserDB;
+import com.amway.model.PrizeDB;
+import com.amway.model.UserDB;
 import com.amway.utils.Snowflake;
 
 import java.util.ArrayList;

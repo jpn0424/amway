@@ -1,6 +1,5 @@
-package com.amway.model.type;
+package com.amway.model;
 
-import lombok.AllArgsConstructor;
 import lombok.Data;
 
 import java.util.List;
